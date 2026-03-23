@@ -2,7 +2,7 @@ TITLE: E-commerce project
 
 
 GROUP MEMBERS:
-GROUP 36
+GROUP 3
 1.	Wabwire Joshua Jed Atwine 
 24/U/20598/EVE 2400720598
 2.	Wasswa Najibu 
