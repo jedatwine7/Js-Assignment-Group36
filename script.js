@@ -1,7 +1,7 @@
 // 1. DATA (The Warehouse)
 const products = [
     { id: 1, name: "Premium Laptop", price: 2500000, category: "Electronics", image: "images/laptop.jpg" },
-    { id: 2, name: "Samsung S23", price: 1200000, category: "Electronics", image: "images/phone.jpg" },
+    { id: 2, name: "Smartphone X", price: 1200000, category: "Electronics", image: "images/phone.jpg" },
     { id: 3, name: "Leather Shoes", price: 150000, category: "Fashion", image: "images/shoes.jpg" },
     { id: 4, name: "Cotton T-Shirt", price: 45000, category: "Fashion", image: "images/shirt.jpg" },
     { id: 5, name: "JavaScript Guide", price: 80000, category: "Books", image: "images/book.jpg" },
