@@ -134,4 +134,23 @@ function setupCheckout() {
     });
 }
 
+// 9. THE "SMART" INITIALIZER
+function init() {
+    updateCartCounter();
+
+    if (document.getElementById('product-container')) {
+        displayProducts();
+    }
+    
+    if (document.getElementById('cart-container')) {
+        displayCartItems();
+    }
+
+    if (document.getElementById('checkout-form')) {
+        setupCheckout();
+    }
+}
+
+// Fire it up!
+init();
 
